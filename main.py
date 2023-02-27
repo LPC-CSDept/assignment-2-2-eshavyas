@@ -5,7 +5,7 @@ def main():
 #     c= int (23 (73.40)) c  # your code
     c= int (input())
     F= 9 /5 * c + 32  
-    print ("Fahrenheit is {0 : .2F}") . __format__
+    print (f'Fahrenheit is {F:.2f}')
     
     
     #pass
